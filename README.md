@@ -68,6 +68,6 @@ aktualizacjami (blockmap). UI utrzymane w estetyce… gazetki promocyjnej. 🛒
 ★ MADE IN PODZIEMIA ALDI ★ PARAGON NIE JEST DOWODEM ZAKUPU ★
 ```
 
-**projekt i produkcja: itsblitzikk** · wypożyczalnia Javy czynna całą dobę
+**projekt i produkcja: itsblitzikk**
 
 </div>
