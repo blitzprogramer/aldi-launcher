@@ -1,71 +1,71 @@
 <div align="center">
 
-# đź›’ ALDI LAUNCHER
+# 🛒 ALDI LAUNCHER
 
-### Najlepszy launcher Minecrafta Ĺ›wiata. Cena: 0,00 zĹ‚ za sztukÄ™.
+### Najlepszy launcher Minecrafta świata. Cena: 0,00 zł za sztukę.
 
 [![Pobierz](https://img.shields.io/badge/%F0%9F%9B%92_pobierz-RELEASY-F36F21?style=for-the-badge)](https://github.com/blitzprogramer/aldi-launcher/releases)
 ![Wersja](https://img.shields.io/github/v/release/blitzprogramer/aldi-launcher?style=for-the-badge&label=WERSJA&color=1C2739)
 ![Platforma](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows11)
 ![Pobrania](https://img.shields.io/github/downloads/blitzprogramer/aldi-launcher/total?style=for-the-badge&label=POBRANIA&color=6FBF4A)
 
-**â­ MADE IN PODZIEMIA ALDI â­**
+**⭐ MADE IN PODZIEMIA ALDI ⭐**
 
 </div>
 
 ---
 
-## â¬‡ď¸Ź Instalacja (2 minuty)
+## ⬇️ Instalacja (2 minuty)
 
-1. WejdĹş w zakĹ‚adkÄ™ [**Releases**](https://github.com/blitzprogramer/aldi-launcher/releases) i pobierz **`ALDI-LAUNCHER-x.y.z-setup.exe`**
-2. Windows pokaĹĽe niebieski ekran **â€žSystem Windows zabezpieczyĹ‚ komputer"** â€” to normalne dla nowych
-   aplikacji bez drogiego certyfikatu. Kliknij **WiÄ™cej informacji â†’ Uruchom mimo to**
-3. Instalator zrobi resztÄ™ sam (jeden klik)
+1. Wejdź w zakładkę [**Releases**](https://github.com/blitzprogramer/aldi-launcher/releases) i pobierz **`ALDI-LAUNCHER-x.y.z-setup.exe`**
+2. Windows pokaże niebieski ekran **„System Windows zabezpieczył komputer"** — to normalne dla nowych
+   aplikacji bez drogiego certyfikatu. Kliknij **Więcej informacji → Uruchom mimo to**
+3. Instalator zrobi resztę sam (jeden klik)
 
-## âś¨ Co umie
+## ✨ Co umie
 
-| | Funkcja | SzczegĂłĹ‚y |
+| | Funkcja | Szczegóły |
 |---|---|---|
-| đźŽ® | **Instancje vanilla i Fabric** | Tworzysz, klikasz, grasz. Pliki gry prosto od Mojangu, z weryfikacjÄ… hashy |
-| đź‘¤ | **Konta Microsoft i offline** | Premium przez bezpieczne okno logowania, albo po prostu nick |
-| đźŚ™ | **Serwer Podziemia pod rÄ™kÄ…** | Status serwera na ĹĽywo, MOTD, liczba graczy â€” i wejĹ›cie na serwer **jednym klikniÄ™ciem**, bez klepania IP |
-| đź”„ | **Samoaktualizacja** | Nowa wersja? Launcher pobiera jÄ… w tle i podmienia przy wyjĹ›ciu. Zero rÄ™cznej roboty |
-| đź©ş | **Skaner awarii** | Gra padĹ‚a? Launcher przeczyta logi i powie **po polsku, co siÄ™ staĹ‚o i co zrobiÄ‡** |
-| â• | **WĹ‚asna Java** | Launcher sam pobiera wĹ‚aĹ›ciwÄ… wersjÄ™ Javy â€” nic nie instalujesz |
-| đź› ď¸Ź | **RÄ™kojmia** | Zmiana RAM, ponowne pobieranie, folder modĂłw â€” wszystko z menu na metce instancji |
+| 🎮 | **Instancje vanilla i Fabric** | Tworzysz, klikasz, grasz. Pliki gry prosto od Mojangu, z weryfikacją hashy |
+| 👤 | **Konta Microsoft i offline** | Premium przez bezpieczne okno logowania, albo po prostu nick |
+| 🌙 | **Serwer Podziemia pod ręką** | Status serwera na żywo, MOTD, liczba graczy — i wejście na serwer **jednym kliknięciem**, bez klepania IP |
+| 🔄 | **Samoaktualizacja** | Nowa wersja? Launcher pobiera ją w tle i podmienia przy wyjściu. Zero ręcznej roboty |
+| 🩺 | **Skaner awarii** | Gra padła? Launcher przeczyta logi i powie **po polsku, co się stało i co zrobić** |
+| ☕ | **Własna Java** | Launcher sam pobiera właściwą wersję Javy — nic nie instalujesz |
+| 🛠️ | **Rękojmia** | Zmiana RAM, ponowne pobieranie, folder modów — wszystko z menu na metce instancji |
 
-## âť“ CzÄ™ste pytania
+## ❓ Częste pytania
 
-**â€žSerwer offline / nie moĹĽna poĹ‚Ä…czyÄ‡"**
-Aternos Ĺ›pi. Karta **Serwer** â†’ **ObudĹş w panelu** â†’ klik Start w przeglÄ…darce â†’ wrĂłÄ‡.
+**„Serwer offline / nie można połączyć"**
+Aternos śpi. Karta **Serwer** → **Obudź w panelu** → klik Start w przeglądarce → wróć.
 Launcher sam wykryje, gdy serwer wstanie (pilnuje co 10 sekund).
 
-**â€žNie mam konta premium"**
-Wybierz profil offline â€” wpisujesz nick i grasz. Na serwerze przy pierwszym wejĹ›ciu
-ustaw hasĹ‚o komendÄ… `/register`.
+**„Nie mam konta premium"**
+Wybierz profil offline — wpisujesz nick i grasz. Na serwerze przy pierwszym wejściu
+ustaw hasło komendą `/register`.
 
-**â€žCoĹ› nie dziaĹ‚a"**
-ZÄ™batka na metce instancji â†’ **SPRAWDĹą LOGI** â€” skaner diagnozuje problem,
-a **SKOPIUJ RAPORT** przygotuje raport do wysĹ‚ania.
+**„Coś nie działa"**
+Zębatka na metce instancji → **SPRAWDŹ LOGI** — skaner diagnozuje problem,
+a **SKOPIUJ RAPORT** przygotuje raport do wysłania.
 
-**â€žA to bezpieczne? Moje konto?"**
-HasĹ‚o logowania wpisujesz wyĹ‚Ä…cznie na stronie Microsoftu â€” launcher go nigdy nie widzi.
-Tokeny sÄ… szyfrowane i wiÄ…ĹĽÄ… siÄ™ z Twoim komputerem. Zero telemetrii, zero wysyĹ‚ania
-danych â€” launcher rozmawia tylko z Mojgiem, Microsoftem, Fabricem i Adoptium.
-DokĹ‚adna lista adresĂłw jest w kodzie i nic wiÄ™cej.
+**„A to bezpieczne? Moje konto?"**
+Hasło logowania wpisujesz wyłącznie na stronie Microsoftu — launcher go nigdy nie widzi.
+Tokeny są szyfrowane i wiążą się z Twoim komputerem. Zero telemetrii, zero wysyłania
+danych — launcher rozmawia tylko z Mojgiem, Microsoftem, Fabricem i Adoptium.
+Dokładna lista adresów jest w kodzie i nic więcej.
 
-## đź› ď¸Ź Dla ciekawskich (techniczne)
+## 🛠️ Dla ciekawskich (techniczne)
 
-Electron 44 Â· React 19 Â· TypeScript Â· Tailwind 4 Â· `@xmcl` do instalacji gry Â·
-`msmc` do logowania Microsoftem Â· build przez electron-builder z rĂłĹĽnicowymi
-aktualizacjami (blockmap). UI utrzymane w estetyceâ€¦ gazetki promocyjnej. đź›’
+Electron 44 · React 19 · TypeScript · Tailwind 4 · `@xmcl` do instalacji gry ·
+`msmc` do logowania Microsoftem · build przez electron-builder z różnicowymi
+aktualizacjami (blockmap). UI utrzymane w estetyce… gazetki promocyjnej. 🛒
 
 ---
 
 <div align="center">
 
 ```
-â… MADE IN PODZIEMIA ALDI â… PARAGON NIE JEST DOWODEM ZAKUPU â…
+★ MADE IN PODZIEMIA ALDI ★ PARAGON NIE JEST DOWODEM ZAKUPU ★
 ```
 
 </div>
