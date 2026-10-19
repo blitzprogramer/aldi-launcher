@@ -2,7 +2,7 @@
 
 # 🛒 ALDI LAUNCHER
 
-### Najlepszy launcher Minecrafta świata. Cena: 0,00 zł za sztukę.
+### Najlepszy launcher Minecrafta świata.
 
 [![Pobierz](https://img.shields.io/badge/%F0%9F%9B%92_pobierz-RELEASY-F36F21?style=for-the-badge)](https://github.com/blitzprogramer/aldi-launcher/releases)
 ![Wersja](https://img.shields.io/github/v/release/blitzprogramer/aldi-launcher?style=for-the-badge&label=WERSJA&color=1C2739)
